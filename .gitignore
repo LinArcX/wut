@@ -1,0 +1,8 @@
+*.*user
+.vs
+/garbage
+output
+src/tree/vs/x64
+src/tree/vs/Debug
+src/tree/vs/Release
+src/tree/vs/tree.vcxproj.user
