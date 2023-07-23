@@ -1,3 +1,8 @@
+# ARCHIVED
+USE https://github.com/uutils/coreutils instead.
+
+You need tree? use broot.
+
 # wut
 we love unix tools. but if you are living in window, you feel so limited and you'll miss your unix/linux workflow.
 
